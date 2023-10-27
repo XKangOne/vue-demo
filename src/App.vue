@@ -6,7 +6,7 @@
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <p>欢迎来到vue-demo世界</p>
+      <p>欢迎来到vue-demo世界!!!!!!</p>
     </div>
   </header>
 

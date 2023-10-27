@@ -33,4 +33,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64,linux/arm64
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/vue-demo:latest
+          tags: xkangone/vue-demo:latest
